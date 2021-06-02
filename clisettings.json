@@ -1,0 +1,17 @@
+{
+  "domainNamespace": "AngularMaterialSchematics.Api",
+  "applicationNamespace": "AngularMaterialSchematics.Api",
+  "infrastructureNamespace": "AngularMaterialSchematics.Api",
+  "apiNamespace": "AngularMaterialSchematics.Api",
+  "domainDirectory": "C:\\Projects\\AngularMaterialSchematics\\src\\AngularMaterialSchematics.Api",
+  "applicationDirectory": "C:\\Projects\\AngularMaterialSchematics\\src\\AngularMaterialSchematics.Api",
+  "infrastructureDirectory": "C:\\Projects\\AngularMaterialSchematics\\src\\AngularMaterialSchematics.Api",
+  "apiDirectory": "C:\\Projects\\AngularMaterialSchematics\\src\\AngularMaterialSchematics.Api",
+  "appDirectory": "C:\\Projects\\AngularMaterialSchematics\\src\\AngularMaterialSchematics.App",
+  "path": "C:\\Projects\\AngularMaterialSchematics",
+  "dbContext": "AngularMaterialSchematicsDbContext",
+  "sourceFolder": "src",
+  "resources": [
+    "Contact"
+  ]
+}
